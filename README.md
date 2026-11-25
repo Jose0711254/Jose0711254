@@ -40,8 +40,8 @@ Aquí tienes las herramientas y lenguajes con los que trabajo día a día:
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| 🌐 **[Practica-GRID](https://github.com/Jose0711254/Practica-GRID.git)** | Página web responsive diseñada desde cero aplicando maquetación moderna con CSS Grid.  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| 🌐 **[Portfolio](https://github.com/Jose0711254/portfolio.git)** | Página web responsive diseñada desde cero con HTML5, CSS3 y JavaScript para presentar mi perfil profesional, proyectos de desarrollo web, experiencia laboral y formación académica.  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🌐 **[Practica-GRID](https://github.com/Jose0711254/Practica-GRID)** | Página web responsive diseñada desde cero aplicando maquetación moderna con CSS Grid. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🌐 **[Portfolio](https://github.com/Jose0711254/portfolio)** | Página web responsive diseñada desde cero con HTML5, CSS3 y JavaScript para presentar mi perfil profesional, proyectos de desarrollo web, experiencia laboral y formación académica. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 *(Puedes ver el código de este y otros proyectos fijados justo debajo de esta presentación 👇)*
 
