@@ -1,27 +1,20 @@
-<!-- Banner superior animado -->
 <div align="center">
-  <img src="https://vercel.app¡Hola!%20Soy%20[Tu%20Nombre]&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Desarrollo%20de%20Aplicaciones%20Web%20(DAW)&descAlignY=60&descSize=18" width="100%"/>
+  <h1>¡Buenas! Soy José Luis Rey González 👋</h1>
+  <p><strong>Estudiante de Desarrollo de Aplicaciones Web (DAW)</strong></p>
+  
+  <p>
+    Me apasiona entender cómo funciona la web por dentro y transformar ideas en aplicaciones reales.
+  </p>
 </div>
-
-<!-- Texto animado escribiéndose solo -->
-<p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-<img align="right" alt="Coding" width="320" src="https://giphy.com">
-
-¡Buenas! Soy **José Luis Rey González**, estudiante de **Desarrollo de Aplicaciones Web (DAW)** tras haber completado el Bachillerato. Me apasiona entender cómo funciona la web por dentro y transformar ideas en aplicaciones reales.
-
-- 🔭 **Actualmente:** Cursando DAW y construyendo mis primeros proyectos web completos.
-- 🌱 **Aprendiendo:** Arquitectura web, diseño *responsive*, programación orientada a objetos y bases de datos relacionales.
+- 🔭 **Actualmente:** Cursando DAW (tras haber completado el Bachillerato) y construyendo mis primeros proyectos web completos.
+- 🌱 **Aprendiendo:** Arquitectura web, diseño responsive, programación orientada a objetos y bases de datos relacionales.
 - 💡 **Filosofía:** *"El código limpio siempre parece que fue escrito por alguien a quien le importa."*
 - 🎮 **En mi tiempo libre:** Hacer deporte y quedar con amigos.
-
-<br clear="right"/>
 
 ---
 
@@ -30,19 +23,16 @@
 Aquí tienes las herramientas y lenguajes con los que trabajo día a día:
 
 #### 💻 Lenguajes de Programación y Marcado
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Java](https://shields.io)
-![PHP](https://shields.io)
-![SQL](https://shields.io)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php" alt="Lenguajes" />
+</p>
 
 #### 🗄️ Bases de Datos y Herramientas
-![MySQL](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![VS Code](https://shields.io)
-![Linux](https://shields.io)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" alt="Herramientas" />
+</p>
+
+> *(Nota: Si aún no usas alguna tecnología como PHP o Linux, simplemente borra su nombre de la URL de arriba, por ejemplo: `i=html,css,js,java`)*
 
 ---
 
@@ -50,17 +40,17 @@ Aquí tienes las herramientas y lenguajes con los que trabajo día a día:
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| 🌐 **Practica-GRID** | Página web *responsive* diseñada desde cero para [explica brevemente de qué va]. | `HTML` `CSS` |
+| 🌐 **[Practica-GRID](https://github.com/Jose0711254/Practica-GRID.git)** | Página web responsive diseñada desde cero aplicando maquetación moderna con CSS Grid. *(Edita aquí de qué trata tu web)* | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
-*(Puedes ver el código de estos proyectos fijados justo debajo de esta presentación 👇)*
+*(Puedes ver el código de este y otros proyectos fijados justo debajo de esta presentación 👇)*
 
 ---
 
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img height="165em" src="https://vercel.app"/>
-  <img height="165em" src="https://vercel.app"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jose0711254&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose0711254&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
@@ -68,10 +58,7 @@ Aquí tienes las herramientas y lenguajes con los que trabajo día a día:
 ### 📫 ¿Conectamos?
 
 <p align="left">
-  <a href="reygonzalezjosito@gmail.com">
-    <img src="https://shields.io" alt="Email"/>
+  <a href="mailto:reygonzalezjosito@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
-
-<!-- Banner inferior -->
-<img src="https://vercel.app" width="100%"/>
+</p>
